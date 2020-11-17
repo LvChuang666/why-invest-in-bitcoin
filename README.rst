@@ -154,14 +154,14 @@ is no longer worth what it used to be. So who gains from inflation, the banks
 and the wealthy. To understand this, it is worth taking a look at how the money 
 supply is increased.
 
-It it time to forget every thing you thought you knew about how banks work.  
+It is time to forget every thing you thought you knew about how banks work.  
 A common believe is that a bank takes in savings and then lend out that money.  
 But banks lend much more than they have in savings. This is because almost all 
 banks in the US are licensed by the Fed to practice fractional reserve banking, 
 which means they can lend more than they have in savings. Much more. How is it 
 that they can lend more than they have? Their license to practice fractional 
 reserve banking gives them the right to create money. So, someone comes in and 
-asks to borrow a million dollars, if the bank agrees agree they simply put 
+asks to borrow a million dollars, if the bank agrees they simply put 
 a million dollars into the borrower's account. The million dollars did not exist 
 before it was placed in the account, and as the loan is paid off it disappears 
 again.  This is the meaning of the phrase 'monetizing debt'. Debt literally 
@@ -170,7 +170,7 @@ out loans.  Since the banks are creating the money they lend, there is little to
 constrain how much they lend.  Nominally there is a reserve requirement; 
 typically 10%, which means they can loan out 10 times as much as they have. But 
 even this rule does not really limit them in practice, as the Fed will simply 
-loan them the needed reserves.  They only thing that stops them from giving out 
+loan them the needed reserves.  The only thing that stops them from giving out 
 a loan is the fear it might not be paid back.  While the money they loan out is 
 created without cost, they do get to keep the interest paid on the loan.  In 
 making loans they are creating our money supply and then we pay them for it 
@@ -184,7 +184,7 @@ investments or take any risk. It is a sweet deal. In the end, the banks are
 incentivized to loan out more and more money, which creates a larger and larger 
 money supply.  This money flows into assets such as real estate, which has the 
 effect of making them more expensive.  Who benefits from this other than the 
-banks? Why the wealthy of course, as they are the one holding the assets.  
+banks? The wealthy of course, as they are the one holding the assets.  
 Meanwhile, the assets become more and more out of reach for those who are not 
 wealthy.
 
@@ -264,11 +264,11 @@ through legislated tax increases is very difficult to do because it is very
 visible and is generally resisted by those being taxed.  Raising money through 
 inflation is largely invisible and so can be done without creating open 
 resistance.  To politicians in Washington, taxation via inflation is free money.  
-It allows them to spend the government's money to buy votes without without 
+It allows them to spend the government's money to buy votes without 
 paying the price that comes from raising taxes to pay the bill for their 
 largess.  However, inflation is a terribly regressive tax as it is those that 
 hold most of their wealth in cash that are hit the hardest. It is the poor that 
-hold their wealth in cash; the wealthy hold hard assets such stock and real 
+hold their wealth in cash; the wealthy hold hard assets such as stock and real 
 estate, whose price goes up as a result of inflation, insulating them from this 
 tax.
 
@@ -300,7 +300,7 @@ issue by simply eliminating inflation.
 
 To understand bitcoin it important to understand that today bitcoin is more of 
 an asset than a currency, and the value of almost all assets is based on their 
-scarcity.  This did not used to be true with equities in the stock market.  Many 
+scarcity.  This used to be not true with equities in the stock market.  Many 
 years ago the holders of equities were rewarded with dividends, meaning that it 
 was worthwhile to hold the stocks even if the price of the stock did not change.  
 But over time things changed and now the rewards from holding stock usually come 
