@@ -69,7 +69,7 @@ the Dow over the last 200 years.
     :width: 100%
     :align: center
 
-Notice that the change is slope is gone, which supports the idea that it was due 
+Notice that the change in slope is gone, which supports the idea that it was due 
 to inflation and that the effect of inflation can be removed by normalizing to 
 the price of gold.  The true rate of return is determined to be 2%, which seems 
 to be quite modest especially considering the risk and volatility of the market.  
